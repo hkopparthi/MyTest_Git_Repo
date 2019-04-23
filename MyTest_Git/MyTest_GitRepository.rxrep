@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="MyTest_GitRepository"
+id="ba9cb0ef-86ba-48b0-a595-de7510532560"
+rxversion="9.0">
+  <codegen
+  classname="MyTest_GitRepository"
+  namespace="MyTest_Git"/>
+  <rootfolder
+  name="Root"
+  id="fbbbae7d-0f85-4306-810c-b28e1a75bec1"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+      <appfolder
+          addcaps="form,nativewindow"
+          capname="form"
+          id="022ee685-03aa-4cd8-8a1a-35ab3271cc3a"
+          isrooted="True"
+          name="ApplicationUnderTest"
+          searchtimeout="30000ms"
+          usecache="True">
+          <basepath>
+              /form[@processname='notepad']
+          </basepath>
+          <icon>
+              iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAALQSURBVDhPtZBbSNNRHMf3VA+F9iREPYTok5Vg
+QXTBCrJGhG+GaGpoQj44MSgDb4VJXkttm2aa8zan00ynTvff1Dmnm383p1N3U9tmNi1nXop0qN9O
+ORg+RPTQB34cDuf3+f7OOYz/Aj0jOVXM45rL+ZXyLkV34cDEUOKAseu0+/jvmFbW7K1UP3jvRCip
+qkUul4scNnurgMt1lZSV7rypZM+9eHbjqLt9P+F8WcDGD9euc3MLX13bWNragXljExLrEirUemS0
+iJHKb0NS3PUlt7Kf1U3Xtn5x5btpeQ2zK+vQLTpBzSygZWoOpSMG5Cr1aJq2IiEqeN2teHgu194b
+dSzr9A6na9C2BGruExT2z2g32sHTmvBKPYWMPi3szjUkRF6AW/MgsS0aRZYFWfu0dbff6kCnZR7V
+E7Oo0JrBIXKuYhzp3UOwf3GCFXV+f0CmXJtTRBtb2BpTU/24BdU6Cxom5/BWN4P84Ulk9WuRJqWh
+np2HxmBGckywJ+BOTc+h+xJawJJpqlhSmltGG1Cs0qOQiHnkzdlkciqR08VKEvARlFKFuNAAT8At
+gbT8Yk1PybUGKSdU2FuVLR9DVp8GT0ml9Y7iMUUjhRrBoPEDBkxWNHb0IPzK8b2AiGbK1yuvvsKn
+oI5z7GUDJ4TXQbNECiSRSu4YBKtTiUSyPuoYgM5KPpUEvBa0IvzSYYSFMQ4wknu1MqZodOxsXa/k
+BPc9P6ZZth0h6MFdgQTxQgqxQikiSalmbBi2WEGTtahWiPgQb8Rc9j7y+xa/eChVXc1UTpelSDWI
+E48gVjSEaKEMEfViRDdKMGV3QGGYxajRgoLqRqRF+cLfh+Hr1j3k5LNv82sbuhdWv0GoM+OBhCaT
+bWSyFdSEGXLVMNj1QkTe9NeSdq896w8wmcyDGRlPUrrE3eYF5yrUZhuq29pxMjAwxd3ybwSdCzrD
+8PM76N4SGIyf7y/ig9IIuTAAAAAASUVORK5CYII=
+          </icon>
+      </appfolder>
+      <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>

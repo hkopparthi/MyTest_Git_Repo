@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+# Ranorex Studio 9.0
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTest_Git", "MyTest_Git\MyTest_Git.csproj", "{C338370F-3FE4-4594-8ED5-AE566E639141}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E4C5E02C-E3A3-40F8-95F4-DFAD6B0242D1}"
+	ProjectSection(SolutionItems) = postProject
+		Ranorex = .\Ranorex.rxsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C338370F-3FE4-4594-8ED5-AE566E639141}.Debug|x86.Build.0 = Debug|x86
+		{C338370F-3FE4-4594-8ED5-AE566E639141}.Debug|x86.ActiveCfg = Debug|x86
+		{C338370F-3FE4-4594-8ED5-AE566E639141}.Release|x86.Build.0 = Release|x86
+		{C338370F-3FE4-4594-8ED5-AE566E639141}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal
