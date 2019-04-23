@@ -79,6 +79,10 @@ namespace MyTest_Git
 
             Init();
 
+            Report.Log(ReportLevel.Info, "Mouse", "Mouse scroll Vertical by -360 units.", new RecordItemIndex(0));
+            Mouse.ScrollWheel(-360);
+            Delay.Milliseconds(500);
+            
         }
 
 #region Image Feature Data
