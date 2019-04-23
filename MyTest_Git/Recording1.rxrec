@@ -26,6 +26,17 @@ rxversion="9.0">
 	<variables>
 	</variables>
 	<recorditems>
+		<mousewheelitem
+		delta="-360"
+		duration="500ms"
+		enabled="True"
+		optional="False"
+		orientation="Vertical">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</mousewheelitem>
 	</recorditems>
 	<repository
 	id="ba9cb0ef-86ba-48b0-a595-de7510532560"
